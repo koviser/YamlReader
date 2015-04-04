@@ -1,0 +1,11 @@
+something:
+  value: a
+  level2:
+    level3:
+      data: 956
+something2:
+  sample:
+    - 1
+    - 2
+    - 3
+x: 123
